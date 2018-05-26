@@ -1,2 +1,3 @@
 # Priority-Scheduling
-This is a Scheduling algorithm....
+This is a preemptive Scheduling algorithm.
+Uses Priority to perform preemption .
